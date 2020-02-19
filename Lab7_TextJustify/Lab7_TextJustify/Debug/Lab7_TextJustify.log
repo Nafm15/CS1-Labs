@@ -1,0 +1,6 @@
+﻿  textjustification.cpp
+c:\users\admin\source\repos\lab7_textjustify\lab7_textjustify\textjustification.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\lab7_textjustify\lab7_textjustify\textjustification.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\lab7_textjustify\lab7_textjustify\textjustification.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_TextJustify.vcxproj -> C:\Users\Admin\source\repos\Lab7_TextJustify\Debug\Lab7_TextJustify.exe
+  Lab7_TextJustify.vcxproj -> C:\Users\Admin\source\repos\Lab7_TextJustify\Debug\Lab7_TextJustify.pdb (Partial PDB)

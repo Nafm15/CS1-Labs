@@ -1,0 +1,6 @@
+﻿  game.cpp
+c:\users\admin\source\repos\lab9_game\lab9_game\game.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BattleShip.cpp
+  Generating Code...
+  Lab9_Game.vcxproj -> C:\Users\Admin\source\repos\Lab9_Game\Debug\Lab9_Game.exe
+  Lab9_Game.vcxproj -> C:\Users\Admin\source\repos\Lab9_Game\Debug\Lab9_Game.pdb (Partial PDB)

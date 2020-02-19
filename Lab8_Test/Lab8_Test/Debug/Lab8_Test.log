@@ -1,0 +1,4 @@
+﻿  testShips.cpp
+c:\users\admin\source\repos\lab8_test\lab8_test\testships.cpp(141): warning C4715: 'operational': not all control paths return a value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Admin\source\repos\Lab8_Test\Debug\Lab8_Test.exe : fatal error LNK1120: 1 unresolved externals

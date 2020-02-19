@@ -1,0 +1,4 @@
+﻿  swap.cpp
+c:\users\admin\source\repos\lab6_swap\lab6_swap\swap.cpp(11): warning C4101: 'tmp': unreferenced local variable
+  Lab6_Swap.vcxproj -> C:\Users\Admin\source\repos\Lab6_Swap\Debug\Lab6_Swap.exe
+  Lab6_Swap.vcxproj -> C:\Users\Admin\source\repos\Lab6_Swap\Debug\Lab6_Swap.pdb (Partial PDB)

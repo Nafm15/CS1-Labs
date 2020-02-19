@@ -1,0 +1,6 @@
+﻿  linejustify.cpp
+c:\users\admin\source\repos\lab7_linejustify\lab7_linejustify\linejustify.cpp(19): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\lab7_linejustify\lab7_linejustify\linejustify.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\lab7_linejustify\lab7_linejustify\linejustify.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_LineJustify.vcxproj -> C:\Users\Admin\source\repos\Lab7_LineJustify\Debug\Lab7_LineJustify.exe
+  Lab7_LineJustify.vcxproj -> C:\Users\Admin\source\repos\Lab7_LineJustify\Debug\Lab7_LineJustify.pdb (Partial PDB)

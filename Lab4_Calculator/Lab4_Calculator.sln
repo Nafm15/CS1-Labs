@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab4_Calculator", "Lab4_Calculator\Lab4_Calculator.vcxproj", "{112E97B9-322A-4BEA-8145-667D807DBFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Debug|x64.ActiveCfg = Debug|x64
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Debug|x64.Build.0 = Debug|x64
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Debug|x86.ActiveCfg = Debug|Win32
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Debug|x86.Build.0 = Debug|Win32
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Release|x64.ActiveCfg = Release|x64
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Release|x64.Build.0 = Release|x64
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Release|x86.ActiveCfg = Release|Win32
+		{112E97B9-322A-4BEA-8145-667D807DBFFB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32838340-69FF-4013-A8B7-E2D9A0A3B490}
+	EndGlobalSection
+EndGlobal

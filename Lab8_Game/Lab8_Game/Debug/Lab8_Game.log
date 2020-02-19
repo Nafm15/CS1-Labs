@@ -1,0 +1,7 @@
+﻿game.obj : error LNK2019: unresolved external symbol "void __cdecl initialize(struct Ship * const)" (?initialize@@YAXQAUShip@@@Z) referenced in function _main
+game.obj : error LNK2019: unresolved external symbol "int __cdecl check(struct Ship const * const,struct Location)" (?check@@YAHQBUShip@@ULocation@@@Z) referenced in function _main
+game.obj : error LNK2019: unresolved external symbol "void __cdecl deploy(struct Ship * const)" (?deploy@@YAXQAUShip@@@Z) referenced in function _main
+game.obj : error LNK2019: unresolved external symbol "bool __cdecl operational(struct Ship const * const)" (?operational@@YA_NQBUShip@@@Z) referenced in function _main
+game.obj : error LNK2019: unresolved external symbol "struct Location __cdecl fire(void)" (?fire@@YA?AULocation@@XZ) referenced in function _main
+game.obj : error LNK2019: unresolved external symbol "void __cdecl sink(struct Ship &)" (?sink@@YAXAAUShip@@@Z) referenced in function _main
+F:\Education\Spring 2018\repos\Lab8_Game\Debug\Lab8_Game.exe : fatal error LNK1120: 6 unresolved externals

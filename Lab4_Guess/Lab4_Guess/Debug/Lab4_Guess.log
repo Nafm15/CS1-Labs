@@ -1,0 +1,5 @@
+﻿  guess.cpp
+c:\users\admin\source\repos\lab4_guess\lab4_guess\guess.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\admin\source\repos\lab4_guess\lab4_guess\guess.cpp(8): warning C4101: 'n': unreferenced local variable
+  Lab4_Guess.vcxproj -> C:\Users\Admin\source\repos\Lab4_Guess\Debug\Lab4_Guess.exe
+  Lab4_Guess.vcxproj -> C:\Users\Admin\source\repos\Lab4_Guess\Debug\Lab4_Guess.pdb (Partial PDB)

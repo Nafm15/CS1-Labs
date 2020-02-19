@@ -1,0 +1,6 @@
+﻿  bmr.cpp
+c:\users\admin\source\repos\lab5_bmr\lab5_bmr\bmr.cpp(43): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\admin\source\repos\lab5_bmr\lab5_bmr\bmr.cpp(74): warning C4101: 'age': unreferenced local variable
+c:\users\admin\source\repos\lab5_bmr\lab5_bmr\bmr.cpp(96): warning C4101: 'age': unreferenced local variable
+  Lab5_BMR.vcxproj -> C:\Users\Admin\source\repos\Lab5_BMR\Debug\Lab5_BMR.exe
+  Lab5_BMR.vcxproj -> C:\Users\Admin\source\repos\Lab5_BMR\Debug\Lab5_BMR.pdb (Partial PDB)

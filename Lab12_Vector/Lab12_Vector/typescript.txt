@@ -1,0 +1,23 @@
+Script started on Wed 02 May 2018 02:19:22 PM EDT
+^[]0;nmahmoo1@wasp:~^G^[[?1034h[nmahmoo1@wasp ~]$ ls^M
+^[[0m^[[01;34mpublic_html^[[0m  typescript^M
+^[]0;nmahmoo1@wasp:~^G[nmahmoo1@wasp ~]$ cd^M
+^[]0;nmahmoo1@wasp:~^G[nmahmoo1@wasp ~]$ ls^M
+^[[0m^[[01;34mpublic_html^[[0m  typescript^M
+^[]0;nmahmoo1@wasp:~^G[nmahmoo1@wasp ~]$ lstyp^H^[[K^H^[[K^H^[[K^H^[[K^H^[[Kema\
+xcs^H^[[K^H^[[K^H^[[Kcs^M
+^[[?1049h^[[?12;25h^[[?1h^[=^[[H^[[2J^[[24d^[[K^[[?1l^[>^[[?12l^[[?25h^[[?1049l\
+^[[39;49m^M^[[?1049h^[[?12;25h^[[?1h^[=^[[H^[[2J^[[23d^[[?25l^[[7m-UUU:----F1  \
+^[[0m^[[39;49m^[[27m^[[7m^[[1m*scratch*   ^[[0m^[[39;49m^[[27m^[[7m   All L1   \
+  (Fundamental) ---------------------------^[[0m^[[39;49m^[[27m^M
+^[[A^[[2d^[[?12l^[[?25h^[[?12;25h^[[24d^[[?25lrce)...^[[K^[[H^[[7mFile Edit Opt\
+ions Buffers Tools Help                                            ^[[0m^[[39;4\
+9m^[[27m^M
+^[[A
+^[[K
+^[[K
+^[[K
+^[[K
+^[[K
+-UU-:----F1  typescript     Top L1     (Fundamental) ---------------------------
+C-c-
